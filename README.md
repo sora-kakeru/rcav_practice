@@ -4,7 +4,7 @@ In this project, we will practice the basic RCAV flow, as well as receiving inpu
 
 ## Setup
 
- - Clone the code as usual.
+ - Fork and clone as usual.
  - `cd` into the folder.
  - `bundle install`
  - `rails server`
